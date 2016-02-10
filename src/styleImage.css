@@ -1,0 +1,6 @@
+.image
+{
+ -fx-effect: innershadow( three-pass-box , #EEEEEE , 20, 0.0 , 0 , 2 );
+ -fx-border-radius: 20;
+ -fx-border-width: 5;
+}

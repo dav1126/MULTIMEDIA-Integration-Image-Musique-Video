@@ -1,0 +1,27 @@
+
+.title
+{
+-fx-font-size: 30px;
+-fx-underline: true;
+}
+
+.label-de-base
+{
+-fx-font: bold 10pt "Arial";
+}
+
+.chanson
+{
+-fx-font: bold 10pt "Arial";
+-fx-text-fill: red;
+}
+
+.anchorpane
+{
+ 	-fx-background-color: radial-gradient(focus-distance 0% , center 50% 50% , radius 40% , red, blue, green, yellow, cyan, #f4f4f4);
+}
+
+.anchorpane-inside
+{
+ 	-fx-background-color: radial-gradient(focus-distance 0% , center 50% 50% , radius 40% , rgba(0,0,0,0), rgba(0,0,0,0), rgba(0,0,0,0),  rgba(244,244,244,1));
+}
